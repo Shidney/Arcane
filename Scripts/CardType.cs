@@ -1,0 +1,1 @@
+﻿public enum CardType { HECHIZO, ESBIRRO, ARMA }
